@@ -2,6 +2,7 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
+# Staging environment
 mod 'puppetlabs/exec', '0.1.0'
 mod 'puppetlabs-resource', '0.1.0'
 mod 'puppetlabs-service', '0.1.3'
