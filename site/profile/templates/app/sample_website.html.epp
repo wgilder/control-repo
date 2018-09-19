@@ -27,6 +27,7 @@
             <p>total system memory:
                 <%= $::memory[system][total] %>
             </p>
+            <p>Welcome to the jungle!!</p>
         </div>
     </div>
 </body>
